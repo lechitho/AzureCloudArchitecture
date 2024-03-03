@@ -39,5 +39,5 @@
     ✅Azure Functions is more about quick, serverless computing for event-driven tasks, while Azure WebJobs is better for continuous background tasks in an App Service environment.<br/><br/>
 
 
-    [⬆ back to top](#table-of-contents)
+[⬆ Back to top](#table-of-contents)
 </details>
