@@ -1,8 +1,8 @@
-# AzureCloudArchitecture
+# Azure Cloud Architecture
 
 # Table of Contents
--[Azure Background Task - Azure function vs Azure WebJobs](#azure-background-tasks)
-
+* [Azure Background Task - Azure function vs Azure WebJobs](#azure-background-tasks)
+* [Azure Storage - Azure Cache for Redis vs Table Storage](#azure-storage)
 ## Azure Background Task
 <details>
     <summary><b>Azure function vs Azure WebJobs</b></summary>
@@ -38,6 +38,13 @@
     Azure WebJobs fits well in scenarios where you have an existing App Service and need to perform background tasks related to your web application.<br/><br/>
     ✅Azure Functions is more about quick, serverless computing for event-driven tasks, while Azure WebJobs is better for continuous background tasks in an App Service environment.<br/><br/>
 
+
+[⬆ Back to top](#table-of-contents)
+</details>
+
+## Azure Storage
+<details>
+    <summary><b>Azure Cache for Redis vs Azure Table Storage</b></summary>
 
 [⬆ Back to top](#table-of-contents)
 </details>
